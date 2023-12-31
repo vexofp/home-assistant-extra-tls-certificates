@@ -1,0 +1,6 @@
+{
+  "domain": "extra_tls_certificates",
+  "name": "Extra TLS Certificates",
+  "integration_type": "system",
+  "version": "0.0.0"
+}
